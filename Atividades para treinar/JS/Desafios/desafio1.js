@@ -1,3 +1,5 @@
+// O desafio se baseia basicamente em criar 3 variáveis, A se iniciando com 10, B com 20, e C null, e inverter os valores de A e B.
+
 var a = 10
 var b = 20
 var c = null
